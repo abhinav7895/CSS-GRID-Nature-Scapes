@@ -94,4 +94,9 @@ body {
         grid-row: span 1;
         grid-column: span 3;
     }
+    
+    footer h2 {
+        font-size: 1.3rem;
+        padding-inline: 5px;
+    }
 }
